@@ -1,5 +1,5 @@
 [package]
-name = "mw_proprietary_auth"
+name = "mw_host_proprietary"
 version = "0.1.0"
 edition = "2021"
 
